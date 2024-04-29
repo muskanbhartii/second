@@ -1,2 +1,2 @@
 # second
-a sample repository
+a sample repository (a)
